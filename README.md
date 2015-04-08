@@ -11,9 +11,9 @@ command is used to get units of measurement as well as a quick way to convert be
 
 It's like grep but for the network
 
-###VIM/:A 
+###VIM: A 
 
 inserting at the end of the line
-###VIM/:I 
+###VIM: I 
 
 inserting at the beginning of the line
