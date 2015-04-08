@@ -11,3 +11,5 @@ command is used to get units of measurement as well as a quick way to convert be
 ###ngrep
 
 It's like grep but for the network
+\nVIM/:A inserting at the end of the line
+\nVIM/:I inserting at the beginning of the line
