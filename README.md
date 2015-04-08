@@ -7,9 +7,13 @@ Wed Apr  8 10:34:16 EDT 2015
 
 command is used to get units of measurement as well as a quick way to convert between units
 
-
 ###ngrep
 
 It's like grep but for the network
-\nVIM/:A inserting at the end of the line
-\nVIM/:I inserting at the beginning of the line
+
+###VIM/:A 
+
+inserting at the end of the line
+###VIM/:I 
+
+inserting at the beginning of the line
