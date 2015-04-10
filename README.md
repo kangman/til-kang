@@ -17,3 +17,11 @@ inserting at the end of the line
 ###VIM: I 
 
 inserting at the beginning of the line
+
+###VIM: set paste
+
+copy paste into VIM without that stupid autoindent going amuck.
+
+###VIM: v
+
+Turn on "Visual" mode to highlight multiple lines for mass deletion.
