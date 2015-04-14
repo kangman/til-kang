@@ -22,4 +22,5 @@ inserting at the beginning of the line
 
 ##Bash
 
+change permission bits selectively using the "find" command
 `find /opt/lampp/htdocs -type f -exec chmod 644 {} \;`
