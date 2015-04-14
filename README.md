@@ -11,6 +11,8 @@ command is used to get units of measurement as well as a quick way to convert be
 
 It's like grep but for the network
 
+##VIM
+
 ###VIM: A 
 
 inserting at the end of the line
@@ -18,10 +20,6 @@ inserting at the end of the line
 
 inserting at the beginning of the line
 
-###VIM: set paste
+##Bash
 
-copy paste into VIM without that stupid autoindent going amuck.
-
-###VIM: v
-
-Turn on "Visual" mode to highlight multiple lines for mass deletion.
+`find /opt/lampp/htdocs -type f -exec chmod 644 {} \;`
