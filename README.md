@@ -20,6 +20,12 @@ inserting at the end of the line
 
 inserting at the beginning of the line
 
+##SCP
+
+copy files with ssh key
+
+`scp -i /path/to/private/key -r /your/directory user@newserver.com:/new/folder/`
+
 ##Bash
 
 change permission bits selectively using the "find" command
