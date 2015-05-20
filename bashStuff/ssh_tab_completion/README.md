@@ -7,7 +7,6 @@ here is a script I found through the oracle(google) but made a modification as y
 more than one hostname aka alias. 
 
 '''
-
 _complete_ssh_hosts ()
  {
     COMPREPLY=()
@@ -26,3 +25,5 @@ _complete_ssh_hosts ()
     return 0
 }
 complete -F _complete_ssh_hosts ssh
+'''
+
