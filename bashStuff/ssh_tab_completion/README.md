@@ -3,7 +3,7 @@
 When you have a decent size config file with hosts and proxy commands and all that good stuff
 it might come in handy to have tab completion for these hosts you keep sshing into.  
 
-here is a script I found through the oracle(google) but made a modification as you can have
+here is a [script](http://www.shocm.com/2011/01/ssh-autocomplete-on-osx/) I found through the oracle(google) but made a modification as you can have
 more than one hostname aka alias. 
 
 ```
