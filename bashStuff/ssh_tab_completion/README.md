@@ -27,4 +27,7 @@ _complete_ssh_hosts ()
 complete -F _complete_ssh_hosts ssh
 ```
 
+What this is doing is it will go through your ~/.ssh/known_hosts file transform the text to only find the hostnames.  
+It will also go through your ~/.ssh/config file and look for the line that starts with "Host..."  
+These hits will then be offered when you tab after typing in ssh.
 
