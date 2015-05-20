@@ -1,4 +1,4 @@
-#How to get tab completion working for your ~/.ssh/config file
+#How to get tab completion working for your ssh config file
 
 When you have a decent size config file with hosts and proxy commands and all that good stuff
 it might come in handy to have tab completion for these hosts you keep sshing into.  
