@@ -6,7 +6,7 @@ it might come in handy to have tab completion for these hosts you keep sshing in
 here is a script I found through the oracle(google) but made a modification as you can have
 more than one hostname aka alias. 
 
-'''
+```
 _complete_ssh_hosts ()
  {
     COMPREPLY=()
@@ -25,5 +25,6 @@ _complete_ssh_hosts ()
     return 0
 }
 complete -F _complete_ssh_hosts ssh
-'''
+```
+
 
